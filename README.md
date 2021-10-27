@@ -54,7 +54,7 @@ MAIL_FROM_NAME="${APP_NAME}"
 
 ```
 // website_id will be 1 to 10 for fresh migration
-http://localhost:8000/api/post
+```POST``` http://localhost:8000/api/post
 ```
 
 ```javascript
@@ -69,7 +69,7 @@ http://localhost:8000/api/post
 **Subscriber**
 
 ```
-http://localhost:8000/api/subscribe
+```POST``` http://localhost:8000/api/subscribe
 ```
 
 ```javascript
