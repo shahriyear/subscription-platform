@@ -79,3 +79,6 @@ MAIL_FROM_NAME="${APP_NAME}"
 }
 
 ```
+
+*https://documenter.getpostman.com/view/3225806/UV5deuSs#23f5d957-e240-4962-a389-abd2c3db14ad*
+
